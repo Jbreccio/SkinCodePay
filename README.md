@@ -71,7 +71,14 @@ Email: `jose.roberto.breccio@gmail.com` *(or whatever you want)*
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
+Copyright (c) 2025 Jose Roberto Breccio. All rights reserved.
+
+This software and its source code are the exclusive property of the author.
+Unauthorized copying, distribution, modification, or use of any part of this
+project, via any medium, is strictly prohibited without prior written consent.
+
+For licensing inquiries, please contact: jose.roberto.breccio@gmail.com
+
 
 ---
 
