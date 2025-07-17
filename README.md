@@ -77,8 +77,7 @@ This software and its source code are the exclusive property of the author.
 Unauthorized copying, distribution, modification, or use of any part of this
 project, via any medium, is strictly prohibited without prior written consent.
 
-For licensing inquiries, please contact: jose.roberto.breccio@gmail.com
-
+For licensing inquiries, please contact: oibreccio@hotmail.com
 
 ---
 
