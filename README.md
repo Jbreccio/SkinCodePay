@@ -1,57 +1,82 @@
-# 🧠 SkinCodePay
+# Skin Code Pay 🔐💸
 
-SkinCodePay is an innovative payment app that uses a scannable tattoo as a visual authentication method to make payments via Pix or QR Code, integrating layers of security and automation with banking APIs.
+> Innovative app that scans a tattoo to make payments via Pix/QR Code, focusing on security, technology, and unique identity.
 
-## 🚀 Features
+---
 
-- Custom tattoo scanning with visual recognition technology
-- Pix and QR Code payment generation
-- Integration with banking APIs (e.g., Nubank, Santander)
-- Multi-step anti-fraud validation
-- Transaction recording with timestamp
-- Compatible with Android devices
+## 🔰 Badges
 
-## 🔒 Security — 14 Layers of Protection
+![Status](https://img.shields.io/badge/Status-Em%20Construção-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Back-End-Python-blue?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/Front-End-React-blue?style=for-the-badge&logo=react)
+![API](https://img.shields.io/badge/API-REST- informational?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-14%20Camadas-critical?style=for-the-badge)
+![License](https://img.shields.io/github/license/Jbreccio/SkinCodePay?style=for-the-badge)
+![Author](https://img.shields.io/badge/Autor-Jose%20Roberto%20Breccio-success?style=for-the-badge)
 
-1. Cryptographic validation of the tattoo pattern
-2. Comparison with a locally stored secure hash
-3. Biometric authentication (if available)
-4. Geolocation at the time of the transaction
-5. Double verification via banking API
-6. End-to-end encryption of payment data
-7. Image spoofing detection
-8. Transaction tokenization
-9. Trusted device registration
-10. Suspicious behavior monitoring
-11. Automatic session timeout
-12. Two-factor validation (optional)
-13. Encrypted log backup
-14. Logs with local and remote auditing
+---
+
+## 🧠 About the Project
+
+**Skin Code Pay** is a technological solution that transforms the body into a payment key.
+
+With a simple scan of a personal tattoo (using a camera), the app interprets the visual code to authorize financial transactions via Pix or QR Code — all with **14 layers of security** implemented in the backend.
+
+---
 
 ## 🛠️ Technologies Used
 
-- Python (backend)
-- OpenCV / MediaPipe for visual scanning
-- Flask + FastAPI for local APIs
-- SQLite / PostgreSQL
-- Firebase (or Auth0) for optional authentication
-- Integration with banking APIs (Pix/QR)
-- Android Studio (app interface)
-- Git/GitHub for version control
+### 🔙 Backend:
+- Python 3.10+
+- FastAPI or Flask (REST API)
+- SQL database (PostgreSQL or SQLite)
+- JWT authentication
+- Advanced encryption
 
-## 🧪 How to Run
+### 🌐 Frontend (App):
+- React.js / React Native
+- Image scanner via camera
+- QR code reading
+- REST API integration
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/skincodepay.git
-cd skincodepay
+### 🔒 Security:
+- Layers of protection against spoofing, injection, brute force, and others
+- Image validation
+- Multi-factor authentication
+- Session and timeout control
+- Encrypted log recording
 
-# Install the dependencies
-pip install -r requirements.txt
+---
 
-# Start the backend
-python app.py
+## 📸 How it works
 
-👨‍💻 Autor
-Breccio, Jose Roberto
-LinkedIn — GitHub — Portfólio
+1. The user points the camera at their registered tattoo.
+2. The app decodes and authenticates the visual pattern. 3. The API authorizes the Pix/QR transaction.
+4. Payment is made with real-time confirmation.
+
+---
+## 📦 Installation
+
+> Under construction — step-by-step guide will be published soon.
+
+---
+
+## 🧑‍💻 Author
+
+**Jose Roberto Breccio**
+GitHub: [@Jbreccio](https://github.com/Jbreccio)
+Email: `jose.roberto.breccio@gmail.com` *(or whatever you want)*
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
+
+---
+
+## 🌟 Contributions
+
+Contributions are welcome after the first version is released. Please open an issue or submit a pull request with suggestions.
+
+---
